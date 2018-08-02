@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* USPS-TABLE
+ * Aggregate up-to-date postage prices into a table
+ * by Daphne Lundquist
+ * August 2, 2018
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
