@@ -1,0 +1,10 @@
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\bin\Debug\usps-table.exe.config
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\bin\Debug\usps-table.exe
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\bin\Debug\usps-table.pdb
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps-table.csprojAssemblyReference.cache
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps_table.Form1.resources
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps_table.Properties.Resources.resources
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps-table.csproj.GenerateResource.cache
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps-table.csproj.CoreCompileInputs.cache
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps-table.exe
+C:\Users\Daphne\Desktop\gitprojz\usps-table\usps-table\usps-table\obj\Debug\usps-table.pdb
